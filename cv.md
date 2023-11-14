@@ -1,5 +1,3 @@
 # Yatsenko Yaroslav
 
 ## Contacts
-
-### Descr
